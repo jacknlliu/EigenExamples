@@ -283,7 +283,7 @@ qx = quaternion_about_axis(alpha, xaxis)
 q = quaternion_multiply(qx, qy)
 ```
 
-More deatil, please see [tf/transformations in ROS/geometry github](https://github.com/ros/geometry/blob/indigo-devel/tf/src/tf/transformations.py).
+More details, please see [tf/transformations in ROS/geometry github](https://github.com/ros/geometry/blob/indigo-devel/tf/src/tf/transformations.py).
 
 
 ## Wrap Homogeneous transformations matrix to `PyKDL` Frame and ROS pose message
