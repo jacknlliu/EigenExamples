@@ -230,7 +230,7 @@ m2 = m*m1
 - [Eigen Advanced initialization](http://eigen.tuxfamily.org/dox/group__TutorialAdvancedInitialization.html)
 - [Dense matrix and array manipulation](http://eigen.tuxfamily.org/dox/group__DenseMatrixManipulation__chapter.html)
 - [Eigen Library Tutorial](http://www.cc.gatech.edu/classes/AY2015/cs4496_spring/Eigen.html)
-
+- [A simple quickref for Eigen](https://eigen.tuxfamily.org/dox/AsciiQuickReference.txt)
 
 # Eigen transformations to KDL Frame and ROS Pose message
 
